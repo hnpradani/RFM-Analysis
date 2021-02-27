@@ -1,0 +1,70 @@
+user_id,nama_user,kodepos,email,buyer,seller,lokasi
+1,"Ir. Paris Siregar, S.Sos",20412,dadapsamosir@hotmail.com,True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+2,Oliva Zulkarnain,37034,"permadiputri@pt.mil.id,",True,True,"Bengkulu, Jambi, Bangka Belitung, Sumatra Selatan, Lampung"
+3,Latika Mustofa,2728,"caturanggriawan@pd.go.id,",True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+4,Elvina Rahmawati,470,"varyani@pd.ac.id,",True,True,"Banten, Jawa Barat"
+5,Tedi Irawan,39756,"latuponodaliono@hotmail.com,",True,True,"Bengkulu, Jambi, Bangka Belitung, Sumatra Selatan, Lampung"
+6,Ir. Hartaka Susanti,6391,"siregarfebi@perum.int,",True,True,Jawa Timur
+7,"Manah Nuraini, M.M.",57253,ira80@gmail.com,True,True,"Jawa Tengah, Yogyakarta"
+8,"Hadi Habibi, S.Gz",6889,yonosirait@pt.net.id,True,True,Jawa Timur
+9,Caket Utami,32723,"suwarnopadmi@perum.edu,",True,True,"Bengkulu, Jambi, Bangka Belitung, Sumatra Selatan, Lampung"
+10,"Tgk. Bagas Wasita, M.Pd",75893,fprasetya@hotmail.com,True,True,Kalimantan
+11,"Lalita Sitompul, M.Ak",2402,lamarutama@pd.web.id,True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+12,Cindy Manullang,65440,"dinda95@hotmail.com,",True,True,Jawa Timur
+13,Tgk. Cici Rajata,2077,"pradiptaega@gmail.com,",True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+14,Gasti Natsir,25835,"purnawativirman@hotmail.com,",True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+15,Lintang Rahayu,29597,"kenzie11@hotmail.com,",True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+16,Lamar Halim,90234,"qyulianti@gmail.com,",True,True,"Sulawesi, Maluku, Papua"
+17,"R. Karen Marpaung, S.Pt",39016,zsuryono@cv.id,True,True,"Bengkulu, Jambi, Bangka Belitung, Sumatra Selatan, Lampung"
+18,"Tgk. Hasna Prasasta, M.Farm",9977,pnashiruddin@gmail.com,True,True,"Sulawesi, Maluku, Papua"
+19,Wardaya Laksmiwati,48665,"adinata15@hotmail.com,",True,True,"Banten, Jawa Barat"
+20,"Dr. Adika Kusmawati, S.Pt",39522,wahyunirestu@hotmail.com,True,True,"Bengkulu, Jambi, Bangka Belitung, Sumatra Selatan, Lampung"
+21,"Novi Situmorang, S.Farm",74053,onipradipta@pd.go.id,True,True,Kalimantan
+22,Gandi Rahmawati,81430,"latuponoharjaya@cv.mil,",True,True,"Bali, Nusa Tenggara"
+23,Ira Sinaga,51647,"vyulianti@yahoo.com,",True,True,"Jawa Tengah, Yogyakarta"
+24,Purwa Saefullah,23093,"egagunarto@yahoo.com,",True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+25,"Dr. Ganep Latupono, S.Kom",31565,alikathamrin@pd.net,True,True,"Bengkulu, Jambi, Bangka Belitung, Sumatra Selatan, Lampung"
+26,"Gaman Prasetya, S.E.I",63412,oni60@gmail.com,True,True,Jawa Timur
+27,Bahuwirya Haryanto,38480,"esiregar@gmail.com,",True,True,"Bengkulu, Jambi, Bangka Belitung, Sumatra Selatan, Lampung"
+28,"Dr. Kawaya Fujiati, M.Ak",2651,lailasarigamani@perum.edu,True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+29,"Sidiq Saputra, M.Pd",47078,kprabowo@pt.net.id,True,True,"Banten, Jawa Barat"
+30,Gamanto Maulana,80220,"anggrainieluh@perum.mil,",True,True,"Bali, Nusa Tenggara"
+31,Hj. Kiandra Tampubolon,69503,"nasyiahhana@gmail.com,",True,True,Jawa Timur
+32,Samiah Maulana,69802,"astutinasab@gmail.com,",True,True,Jawa Timur
+33,Jasmin Firmansyah,85389,"yancerahimah@pt.gov,",True,True,"Bali, Nusa Tenggara"
+34,Edison Maulana,5086,"jailandriani@gmail.com,",True,True,"Jawa Tengah, Yogyakarta"
+35,Laksana Winarno,5750,"xbudiyanto@cv.web.id,",True,True,"Jawa Tengah, Yogyakarta"
+36,Ratih Wahyudin,82917,"uprasetya@yahoo.com,",True,True,"Bali, Nusa Tenggara"
+37,"Citra Nurdiyanti, M.Pd",88781,galih56@pt.net.id,True,True,"Bali, Nusa Tenggara"
+38,dr. Laswi Andriani,13883,"daliminardianto@hotmail.com,",True,True,"Jakarta, sebagian Banten dan Jawa Barat"
+39,Himawan Rahayu,86856,"unggulsuryatmi@cv.web.id,",True,True,"Bali, Nusa Tenggara"
+40,R.A. Rachel Iswahyudi,57543,"hjailani@hotmail.com,",True,True,"Jawa Tengah, Yogyakarta"
+41,Kartika Thamrin,93826,"icha73@gmail.com,",True,True,"Sulawesi, Maluku, Papua"
+42,Oliva Wahyudin,83572,"yunizulaika@ud.net.id,",True,True,"Bali, Nusa Tenggara"
+43,"Puji Hidayanto, S.T.",83422,maida04@hotmail.com,True,True,"Bali, Nusa Tenggara"
+44,"Kasiyah Nugroho, S.H.",24766,elvin02@ud.edu,True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+45,Warta Aryani,13120,"arissamosir@ud.id,",True,True,"Jakarta, sebagian Banten dan Jawa Barat"
+46,Eja Tarihoran,77851,"imarpaung@ud.go.id,",True,True,Kalimantan
+47,Tami Padmasari,40805,"perkasakusmawati@cv.co.id,",True,True,"Banten, Jawa Barat"
+48,R. Melinda Wacana,3497,"adhiarjawastuti@pd.mil.id,",True,True,"Bengkulu, Jambi, Bangka Belitung, Sumatra Selatan, Lampung"
+49,Oni Halim,45037,"danuyulianti@hotmail.com,",True,True,"Banten, Jawa Barat"
+50,"Wage Saragih, M.Ak",73391,bagiyaastuti@ud.edu,True,True,Kalimantan
+51,KH. Ridwan Pranowo,44206,"llatupono@hotmail.com,",True,True,"Banten, Jawa Barat"
+52,Puput Usada,49874,"gwacana@gmail.com,",True,True,"Banten, Jawa Barat"
+53,Kasiyah Setiawan,62581,"caturangga37@gmail.com,",True,True,Jawa Timur
+54,Umi Nasyidah,25545,"ktampubolon@pd.org,",True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+55,"Drs. Baktianto Aryani, S.Psi",9614,hesti69@ud.id,True,True,"Sulawesi, Maluku, Papua"
+56,"Johan Anggraini, S.Pd",41398,pastuti@ud.net,True,True,"Banten, Jawa Barat"
+57,"drg. Nadia Hutasoit, S.H.",81129,vyuliarti@pd.go.id,True,True,"Bali, Nusa Tenggara"
+58,T. Dadap Prakasa,15532,"wahyudinjinawi@pd.my.id,",True,True,"Jakarta, sebagian Banten dan Jawa Barat"
+59,R.M. Gaiman Setiawan,88507,"kmulyani@gmail.com,",True,True,"Bali, Nusa Tenggara"
+60,Jaka Hastuti,97658,"dirja48@gmail.com,",True,True,"Sulawesi, Maluku, Papua"
+61,Nyoman Nasyidah,22979,"kwasita@gmail.com,",True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+62,"Mahesa Namaga, S.Psi",21600,puspasarijumadi@perum.mil.id,True,True,"Aceh, Sumatra Utara, Sumatra Barat, Riau, Kepulauan Riau"
+63,Nadine Zulkarnain,49647,"nyomanwahyuni@yahoo.com,",True,True,"Banten, Jawa Barat"
+64,Sari Sihombing,65221,"baktianto36@gmail.com,",True,True,Jawa Timur
+65,Ir. Anita Wibowo,49413,"maryadioktaviani@ud.net.id,",True,True,"Banten, Jawa Barat"
+66,"R.M. Prayogo Damanik, S.Pt",63554,gandapalastri@yahoo.com,True,True,Jawa Timur
+67,Pranata Yuniar,60076,"balamantripermata@pd.sch.id,",True,True,Jawa Timur
+68,Hafshah Tarihoran,40337,"umar17@cv.mil,",True,True,"Banten, Jawa Barat"
+69,Rangga Firmansyah,62166,"jabal66@hotmail.com,",True,True,Jawa Timur
